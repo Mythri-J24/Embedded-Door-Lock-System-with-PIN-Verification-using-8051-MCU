@@ -81,4 +81,3 @@ This project is for educational purposes and open to modification and reuse with
 
 **Microcontrollers and Applications (CSEN3021)**  
 GITAM School of Technology, Bengaluru Campus  
-April 2025
