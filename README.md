@@ -80,4 +80,4 @@ This project is for educational purposes and open to modification and reuse with
 ## 🎓 Submitted as part of
 
 **Microcontrollers and Applications (CSEN3021)**  
-GITAM School of Technology, Bengaluru Campus  
+GITAM School of Technology
